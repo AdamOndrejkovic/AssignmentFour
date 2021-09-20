@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeScale", "GradeScale\GradeScale.csproj", "{51C90911-E574-4CE2-B807-C2DF76DE0ECE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitGradeScale", "XUnitGradeScale\XUnitGradeScale.csproj", "{74DFC3B1-B486-415F-A3E3-B165997D3318}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51C90911-E574-4CE2-B807-C2DF76DE0ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C90911-E574-4CE2-B807-C2DF76DE0ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C90911-E574-4CE2-B807-C2DF76DE0ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C90911-E574-4CE2-B807-C2DF76DE0ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74DFC3B1-B486-415F-A3E3-B165997D3318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74DFC3B1-B486-415F-A3E3-B165997D3318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74DFC3B1-B486-415F-A3E3-B165997D3318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74DFC3B1-B486-415F-A3E3-B165997D3318}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
