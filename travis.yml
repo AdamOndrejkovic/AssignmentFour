@@ -7,4 +7,4 @@ before_script:
 
 script:
   -dotnet test
--dotnet no build
+  -dotnet no-build
