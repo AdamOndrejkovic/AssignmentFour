@@ -1,10 +1,2 @@
 language: csharp
-mono: none
-dotnet: 5.0
 
-before_script:
-  -dotnet restore
-
-script:
-  -dotnet test
-  -dotnet no-build
