@@ -1,2 +1,8 @@
 language: csharp
-
+mono: none
+dotnet: 5.0
+solution: AssignmentFour.sln
+script:
+  - dotnet restore
+  - dotnet build
+  - dotnet test
