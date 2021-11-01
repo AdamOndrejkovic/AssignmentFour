@@ -10,3 +10,15 @@ C:\Users\adamo\RiderProjects\AssignmentFour\TeenagerCalculator\obj\Debug\net5.0\
 C:\Users\adamo\RiderProjects\AssignmentFour\TeenagerCalculator\obj\Debug\net5.0\TeenagerCalculator.dll
 C:\Users\adamo\RiderProjects\AssignmentFour\TeenagerCalculator\obj\Debug\net5.0\ref\TeenagerCalculator.dll
 C:\Users\adamo\RiderProjects\AssignmentFour\TeenagerCalculator\obj\Debug\net5.0\TeenagerCalculator.pdb
+C:\Users\adamo\RiderProjects\AssignmentFourr\TeenagerCalculator\bin\Debug\net5.0\TeenagerCalculator.deps.json
+C:\Users\adamo\RiderProjects\AssignmentFourr\TeenagerCalculator\bin\Debug\net5.0\TeenagerCalculator.dll
+C:\Users\adamo\RiderProjects\AssignmentFourr\TeenagerCalculator\bin\Debug\net5.0\ref\TeenagerCalculator.dll
+C:\Users\adamo\RiderProjects\AssignmentFourr\TeenagerCalculator\bin\Debug\net5.0\TeenagerCalculator.pdb
+C:\Users\adamo\RiderProjects\AssignmentFourr\TeenagerCalculator\obj\Debug\net5.0\TeenagerCalculator.csproj.AssemblyReference.cache
+C:\Users\adamo\RiderProjects\AssignmentFourr\TeenagerCalculator\obj\Debug\net5.0\TeenagerCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamo\RiderProjects\AssignmentFourr\TeenagerCalculator\obj\Debug\net5.0\TeenagerCalculator.AssemblyInfoInputs.cache
+C:\Users\adamo\RiderProjects\AssignmentFourr\TeenagerCalculator\obj\Debug\net5.0\TeenagerCalculator.AssemblyInfo.cs
+C:\Users\adamo\RiderProjects\AssignmentFourr\TeenagerCalculator\obj\Debug\net5.0\TeenagerCalculator.csproj.CoreCompileInputs.cache
+C:\Users\adamo\RiderProjects\AssignmentFourr\TeenagerCalculator\obj\Debug\net5.0\TeenagerCalculator.dll
+C:\Users\adamo\RiderProjects\AssignmentFourr\TeenagerCalculator\obj\Debug\net5.0\ref\TeenagerCalculator.dll
+C:\Users\adamo\RiderProjects\AssignmentFourr\TeenagerCalculator\obj\Debug\net5.0\TeenagerCalculator.pdb

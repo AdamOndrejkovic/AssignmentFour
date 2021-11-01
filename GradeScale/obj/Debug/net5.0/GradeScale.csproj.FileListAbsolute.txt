@@ -10,3 +10,15 @@ C:\Users\adamo\RiderProjects\AssignmentFour\GradeScale\bin\Debug\net5.0\GradeSca
 C:\Users\adamo\RiderProjects\AssignmentFour\GradeScale\obj\Debug\net5.0\GradeScale.dll
 C:\Users\adamo\RiderProjects\AssignmentFour\GradeScale\obj\Debug\net5.0\ref\GradeScale.dll
 C:\Users\adamo\RiderProjects\AssignmentFour\GradeScale\obj\Debug\net5.0\GradeScale.pdb
+C:\Users\adamo\RiderProjects\AssignmentFourr\GradeScale\bin\Debug\net5.0\GradeScale.deps.json
+C:\Users\adamo\RiderProjects\AssignmentFourr\GradeScale\bin\Debug\net5.0\GradeScale.dll
+C:\Users\adamo\RiderProjects\AssignmentFourr\GradeScale\bin\Debug\net5.0\ref\GradeScale.dll
+C:\Users\adamo\RiderProjects\AssignmentFourr\GradeScale\bin\Debug\net5.0\GradeScale.pdb
+C:\Users\adamo\RiderProjects\AssignmentFourr\GradeScale\obj\Debug\net5.0\GradeScale.csproj.AssemblyReference.cache
+C:\Users\adamo\RiderProjects\AssignmentFourr\GradeScale\obj\Debug\net5.0\GradeScale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamo\RiderProjects\AssignmentFourr\GradeScale\obj\Debug\net5.0\GradeScale.AssemblyInfoInputs.cache
+C:\Users\adamo\RiderProjects\AssignmentFourr\GradeScale\obj\Debug\net5.0\GradeScale.AssemblyInfo.cs
+C:\Users\adamo\RiderProjects\AssignmentFourr\GradeScale\obj\Debug\net5.0\GradeScale.csproj.CoreCompileInputs.cache
+C:\Users\adamo\RiderProjects\AssignmentFourr\GradeScale\obj\Debug\net5.0\GradeScale.dll
+C:\Users\adamo\RiderProjects\AssignmentFourr\GradeScale\obj\Debug\net5.0\ref\GradeScale.dll
+C:\Users\adamo\RiderProjects\AssignmentFourr\GradeScale\obj\Debug\net5.0\GradeScale.pdb

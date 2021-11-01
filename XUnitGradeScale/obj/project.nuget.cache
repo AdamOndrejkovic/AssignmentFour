@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K4xb/hWW3Ge/sZWOdrX3PJNENGsHdyYuYi+HG5be0jhJ8z/Nl9HVFnVrTZNyKhtFI/cnM51MhqOIa9gc5g3HRw==",
+  "dgSpecHash": "gam8ChYvkQS1HNZx8b+ZTLGs2TSSwt83PwUxurikNRkraJMvWv5EtYjpYwBf56ZhXHZB7NFvNsKhj4nsCh4FAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adamo\\RiderProjects\\AssignmentFour\\XUnitGradeScale\\XUnitGradeScale.csproj",
+  "projectFilePath": "C:\\Users\\adamo\\RiderProjects\\AssignmentFourr\\XUnitGradeScale\\XUnitGradeScale.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adamo\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\adamo\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

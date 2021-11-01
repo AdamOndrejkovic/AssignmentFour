@@ -11,6 +11,7 @@
     &lt;TestId&gt;xUnit::74DFC3B1-B486-415F-A3E3-B165997D3318::net5.0::XUnitGradeScale.PercentageToGradeTest.PercentageInRange&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;MSTest::FB67C1F3-96A0-4F6F-B212-890C83A7A67E::net5.0::TeenagerCalculatorTest.TeenagerCalcTest.AgeBellowHinderedTwenty&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;MSTest::FB67C1F3-96A0-4F6F-B212-890C83A7A67E::net5.0::TeenagerCalculatorTest.TeenagerCalcTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::74DFC3B1-B486-415F-A3E3-B165997D3318::net5.0::XUnitGradeScale.PercentageToGradeTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=877c88e8_002D596f_002D4c4e_002Da1e9_002D015e7a48195b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PercentageAboveRange #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
