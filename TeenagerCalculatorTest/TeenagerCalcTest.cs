@@ -24,7 +24,7 @@ namespace TeenagerCalculatorTest
         }
 
         [TestMethod]
-        [DataRow(2020, 12, 24)]
+        [DataRow(2022, 12, 24)]
         [DataRow(2122, 12, 24)]
         [DataRow(2222, 12, 24)]
         [DataRow(2035, 12, 24)]
